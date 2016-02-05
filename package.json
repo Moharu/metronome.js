@@ -1,0 +1,19 @@
+{
+  "name": "metronome.js",
+  "version": "1.0.0",
+  "description": "Simple metronome in node",
+  "main": "metronome.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "metronome",
+    "sound",
+    "music"
+  ],
+  "author": "Moharu",
+  "license": "ISC",
+  "dependencies": {
+    "play": "^0.5.0"
+  }
+}
