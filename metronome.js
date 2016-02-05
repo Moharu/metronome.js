@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 // wrapper for a function that plays sound
 const spawn = require('child_process').spawn
 var playSound = function(filepath, callback){
